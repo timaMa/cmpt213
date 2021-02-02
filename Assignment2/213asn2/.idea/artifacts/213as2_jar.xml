@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="213as2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/213as2_jar</output-path>
+    <root id="archive" name="213as2.jar">
+      <element id="module-output" name="213as2" />
+    </root>
+  </artifact>
+</component>

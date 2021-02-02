@@ -1,0 +1,70 @@
+{
+  "tokimons": [
+    {
+      "name": "Toki1",
+      "id": "001",
+      "weight": 150,
+      "height": 140,
+      "fly": 30,
+      "fire": 12,
+      "water": 42,
+      "electric": 33,
+      "freeze": 22,
+      "strength": 2,
+      "color": "red"
+    },
+    {
+      "name": "Toki2",
+      "id": "002",
+      "weight": 120,
+      "height": 150,
+      "fly": 22,
+      "fire": 33,
+      "water": 23,
+      "electric": 23,
+      "freeze": 1,
+      "strength": 1,
+      "color": "green"
+    },
+    {
+      "name": "Toki3",
+      "id": "003",
+      "weight": 140,
+      "height": 70,
+      "fly": 2,
+      "fire": 4,
+      "water": 1,
+      "electric": 1,
+      "freeze": 4,
+      "strength": 2,
+      "color": "black"
+    },
+    {
+      "name": "Toki4",
+      "id": "004",
+      "weight": 100,
+      "height": 237,
+      "fly": 2,
+      "fire": 5,
+      "water": 4,
+      "electric": 8,
+      "freeze": 2,
+      "strength": 6,
+      "color": "grey"
+    },
+    {
+      "name": "Toki5",
+      "id": "005",
+      "weight": 243,
+      "height": 80,
+      "fly": 4,
+      "fire": 7,
+      "water": 4,
+      "electric": 9,
+      "freeze": 6,
+      "strength": 4,
+      "color": "pink"
+    }
+
+  ]
+}
